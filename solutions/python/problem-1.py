@@ -1,3 +1,3 @@
 class Solution:
-  def print_name(self):
+  def main(self):
     print("Ahmed Muhammad.")
